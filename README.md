@@ -1,0 +1,7 @@
+- Greetings. I'm Davi, an aspiring data scientist.
+- I love studying how data works, statistics, math (I'm not very good at it) and artificial intelligence.
+- I've just started studying databases; SQL, MySQL and R languages; the Pandas and Seaborn frameworks; and data visualization softwares lique Excel, tableau and PowerBI.
+- I don't feel ready to colaborate in any project on GitHub yet. Even thought I love technology, I need to learn a lot.
+- Soocials: https://www.linkedin.com/in/datadevdavi/ | https://app.daily.dev/datadevdavi | https://stackoverflow.com/users/27770684/datadevdavi
+- He.him. In my early twenties.
+- I hate The Beatles.
